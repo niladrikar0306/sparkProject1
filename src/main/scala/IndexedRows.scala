@@ -1,6 +1,6 @@
 import org.apache.spark.sql._
 
-object Boot extends App {
+object IndexedRows extends App {
 
   case class Index(row: Int, col: Int)
 
