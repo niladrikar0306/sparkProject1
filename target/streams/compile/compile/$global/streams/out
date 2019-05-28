@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/niladri/workspaces/sparkProject1/src/main/scala/Boot.scala:20:50: type arguments [Int] do not conform to method toArray's type parameter bounds [B >: Any][0m
+[0m[[0m[31merror[0m] [0m[0m  val dataSeq = data.map(row => row.toSeq.toArray[Int])[0m
+[0m[[0m[31merror[0m] [0m[0m                                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
