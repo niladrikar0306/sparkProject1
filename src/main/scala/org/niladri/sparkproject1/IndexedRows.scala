@@ -1,3 +1,5 @@
+package org.niladri.sparkproject1
+
 import org.apache.spark.sql._
 
 object IndexedRows extends App {
